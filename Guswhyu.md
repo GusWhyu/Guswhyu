@@ -1,12 +1,76 @@
-<h1 align="center">Hi 👋, I'm Gus wahyu</h1>
-<h3 align="center">A passionate frontend developer from God of island Bali</h3>
+<h1 align="center">Wahyu Agus Dwiyanto</h1>
 
-- 📫 How to reach me **jadennx17@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Frontend Developer • UI Designer • Data Visualization Enthusiast
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+Building beautiful interfaces and meaningful digital experiences.
+</p>
 
+---
+
+## About Me
+
+I enjoy creating modern, responsive, and visually engaging web applications.
+
+My interests include:
+
+- Frontend Development
+- UI/UX Design
+- Data Visualization
+- Interactive Experiences
+- Web Performance
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+HTML • CSS • JavaScript • TypeScript
+
+React • Next.js • Tailwind CSS
+
+Chart.js • Leaflet.js
+
+Git • GitHub
+
+</div>
+
+---
+
+## Featured Projects
+
+### 🌴 Discovering Bali Through Data
+
+Interactive tourism analytics dashboard built using data visualization and machine learning concepts.
+
+### 💼 Web Portfolio
+
+Personal portfolio showcasing projects, skills, and design approach.
+
+### 🤖 AI Landing Page
+
+Modern landing page with clean UI and responsive design.
+
+---
+
+## Currently Learning
+
+- Advanced Frontend Architecture
+- Data Storytelling
+- Machine Learning Visualization
+- Modern UI Engineering
+
+---
+
+## Connect
+
+GitHub: @GusWhyu
+
+---
+
+<p align="center">
+Code. Design. Experience.
+</p>
